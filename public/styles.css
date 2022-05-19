@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    justify-content: center;
+}
+
+#message-table{
+    height: auto;
+    width: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    border-radius: 50px;
+    margin-inline-end: 20%;
+    margin-inline-start: 20%;
+    background-color: #f2f2f2;
+}
+
+#message-input{
+    width: 100%;
+    height: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    border-radius: 50px;
+    margin-inline-end: 20%;
+    margin-inline-start: 20%;
+}
+
+.message-row{
+    display: flex;
+}
